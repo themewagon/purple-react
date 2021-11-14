@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/purple-react/precache-manifest.7cb8dc17c995d6755516c1f02967c48a.js"
+  "/purple-react/precache-manifest.884eb5e7e849cdd6a63edb2dfda3c35b.js"
 );
 
 self.addEventListener('message', (event) => {
