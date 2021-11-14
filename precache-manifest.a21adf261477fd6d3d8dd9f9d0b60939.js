@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "544afc1dda8702f971e5dddcd71fc2ad",
+    "revision": "1499f33f33345b9270b87ddd4c25e852",
     "url": "/purple-react/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/purple-react/static/css/4.687196e3.chunk.css"
   },
   {
-    "revision": "63cc129ce4938bfb3489",
+    "revision": "392aefc7beac232354af",
     "url": "/purple-react/static/css/main.71ccef1e.chunk.css"
   },
   {
@@ -80,8 +80,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/purple-react/static/js/9.89ddbde3.chunk.js"
   },
   {
-    "revision": "63cc129ce4938bfb3489",
-    "url": "/purple-react/static/js/main.9d34416f.chunk.js"
+    "revision": "392aefc7beac232354af",
+    "url": "/purple-react/static/js/main.4728c54c.chunk.js"
   },
   {
     "revision": "ca7f8976ddba886f9c58",
